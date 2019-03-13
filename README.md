@@ -1,0 +1,2 @@
+# KeyboardVisibilityEvent
+Android检测软键盘的开启和关闭
